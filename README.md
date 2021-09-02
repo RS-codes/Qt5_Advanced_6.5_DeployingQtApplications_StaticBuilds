@@ -1,0 +1,1 @@
+# Qt5_Advanced_6.5_DeployingQtApplications_StaticBuilds
